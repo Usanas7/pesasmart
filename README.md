@@ -5,7 +5,7 @@
 PesaSmart is **non-custodial** — it never holds, moves, or processes money. Members continue to contribute exactly as they always have (mobile money or cash). What PesaSmart provides is the missing *governance layer*: a shared, verifiable record that every member can check from any phone, in English or Kinyarwanda.
 
 **Live demo:** https://pesasmart.vercel.app
-**Demo video (5 min):** https://youtu.be/PKt4HbL8M58 
+**Demo video:** https://youtu.be/PKt4HbL8M58 
 
 ---
 
